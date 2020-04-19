@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/RxJavaFlightTicket.iml" filepath="$PROJECT_DIR$/RxJavaFlightTicket.iml" group="RxJavaFlightTicket" />
+      <module fileurl="file://$PROJECT_DIR$/app/RxJavaFlightTicket-app.iml" filepath="$PROJECT_DIR$/app/RxJavaFlightTicket-app.iml" group="RxJavaFlightTicket/app" />
       <module fileurl="file://$PROJECT_DIR$/RxJavaFlightTickets.iml" filepath="$PROJECT_DIR$/RxJavaFlightTickets.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
